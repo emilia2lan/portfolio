@@ -1,4 +1,5 @@
-Hello, here is Emilia
+Hello, here is Emilia website. Welcome to my page.
+
 <p align="center">
   <a href="https://cara.lekoarts.de">
     <img alt="LekoArts" src="https://img.lekoarts.de/gatsby/gatsby-site-illustration.png" />
